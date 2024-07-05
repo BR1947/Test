@@ -1,0 +1,20 @@
+Artificial Intelligence (AI) is a branch of computer science that aims to create machines capable of intelligent behavior. It involves the development of algorithms and models that enable computers to perform tasks typically requiring human intelligence, such as learning, reasoning, problem-solving, perception, and language understanding.
+
+### Overview of AI
+
+**1. Definition:**
+AI refers to the simulation of human intelligence processes by machines, particularly computer systems. These processes include learning (the acquisition of information and rules for using the information), reasoning (using rules to reach approximate or definite conclusions), and self-correction.
+
+**2. Types of AI:**
+- **Narrow AI (Weak AI):** Designed and trained for a specific task, such as facial recognition or internet searches.
+- **General AI (Strong AI):** A form of AI that can perform any intellectual task that a human being can do. It remains largely theoretical and is the subject of ongoing research.
+- **Superintelligent AI:** An AI that surpasses human intelligence in all respects—creativity, general wisdom, problem-solving, and more. This is also theoretical and speculative.
+
+**3. Techniques and Methods:**
+- **Machine Learning (ML):** A subset of AI that involves training algorithms to learn from and make predictions on data.
+  - **Supervised Learning:** The algorithm is trained on labeled data.
+  - **Unsupervised Learning:** The algorithm finds patterns in unlabeled data.
+  - **Reinforcement Learning:** The algorithm learns by interacting with an environment to achieve a goal.
+- **Deep Learning:** A subset of ML involving neural networks with many layers (deep neural networks). It is particularly effective for tasks like image and speech recognition.
+- **Natural Language Processing (NLP):** Techniques for enabling machines to understand and respond to human language.
+
